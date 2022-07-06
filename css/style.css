@@ -1,0 +1,59 @@
+/*background color*/
+.bg-rosado{
+	background-color: rgba(232,225,202,1); /*light rosado*/
+}
+.bg-celeste{
+	background-color: rgba(194,208,193,1); /*light celeste*/
+}
+.bg-azul{
+	background-color: rgba(107,123,162,1); /*light azul*/
+}
+.bg-morado{
+	background-color: rgba(9,46,76,1); /*light morado*/
+}
+.bg-grey{
+	background-color: rgba(232,225,202,1); /*grey*/
+}
+.bg-darkgrey{
+	background-color: rgba(229,221,221,.8); /*dark grey*/
+}
+
+.bg-red{
+	background-color: red;
+}
+
+.bg-yellow{
+	background-color: yellow;
+}
+/*background color*/
+/*background texto*/
+.bg-h1{
+	background-color: rgba(107,123,162,.5);
+	width: max-content;
+}
+.bg-txt{
+	background-color: rgba(107,123,162,.4);
+}
+/*background texto*/
+/*color*/
+.txt-white{
+	color: white;
+}
+
+.txt-black{
+	color: black;
+}
+/*color*/
+/*background*/
+.bg-lineas{
+	background-image: url("../img/bg_principal.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: auto;
+}
+/*background*/
+
+
+
+
